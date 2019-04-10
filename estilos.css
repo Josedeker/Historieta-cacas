@@ -1,0 +1,201 @@
+*{
+padding: 0px;
+margin: 0px;	
+}
+
+body{
+width: 908px;
+height: 1200px;
+margin:auto;
+}
+
+header{
+width: 908px;
+height: 100px;
+background-image: url(fondo1.jpg);
+color: white;
+}
+nav{
+width: 908px;
+height: 100px;
+background-color: ;
+}
+
+main{
+width: 1212px;
+height: 1000px
+
+}
+
+footer{
+width: 908px;
+height:98px;	
+background-color: red;
+}
+#main1{
+
+width: 1000px;
+height: 1000px;
+
+}
+#img1{
+float: left;
+border: black 2px solid;
+height: 300px;
+width: 300px;
+background-color: blue;
+}
+#img2{
+float: left;
+border: black 2px solid;
+height: 300px;
+width: 300px;
+background-color: white;
+
+
+}
+#img3{
+float: left;
+border: black 2px solid;
+height: 300px;
+width: 300px;
+background-color: black ;
+font-size: 35px;
+}
+
+
+#img4{
+float: left;
+border: black 2px solid;
+height: 300px;
+width: 300px;
+background-color: red;
+
+}
+#img5{
+float: left;
+border: black 2px solid;
+height: 300px;
+width: 300px;
+background-color: red;
+
+}
+#img6{
+	
+float: left;
+border: black 2px solid;
+height: 300px;
+width: 300px;
+background-color: red;
+}
+
+#img7{
+float: left;
+border: black 2px solid;
+height: 300px;
+width: 300px;
+background-color: green;
+
+}
+#img8{
+float: left;
+border: black 2px solid;
+height: 300px;
+width: 300px;
+background-color: green;
+
+}
+#img9{
+	
+float: left;
+border: black 2px solid;
+height: 300px;
+width: 300px;
+background-color: green;
+background-color: black;
+font-size: 70px;
+}
+
+
+#img7a{
+	
+float: left;
+border: black 2px solid;
+height: 300px;
+width: 300px;
+background-color: green;
+background-color: black;
+font-size: 30px;
+}
+
+#img5a{
+	
+float: left;
+border: white 2px solid;
+height: 300px;
+width: 300px;
+background-color: green;
+background-color: black;
+font-size: 50px;
+}
+#img8a{
+	
+float: left;
+border: white 2px solid;
+height: 300px;
+width: 300px;
+background-color: green;
+background-color: black;
+font-size: 40px;
+}
+
+#img9a{
+	
+float: left;
+border: white 2px solid;
+height: 300px;
+width: 300px;
+background-color: green;
+background-color: black;
+font-size: 50px;
+}
+
+#img4a{
+	
+float: left;
+border: black 2px solid;
+height: 300px;
+width: 300px;
+background-color: green;
+background-color: black;
+font-size: 50px;
+}
+
+
+
+#iz{
+width: 454px;
+height: 100px;
+border:  2px solid;	
+float: left;
+background-color: khaki;	
+}
+
+
+#de{
+width: 454px;
+height: 100px;
+border:  2px solid;	
+float: left;
+background-color: khaki;	
+}
+
+
+
+#titulo{
+font-size: 50px;
+background-image: url(fondo1.jog);
+
+}
+300 338
+
